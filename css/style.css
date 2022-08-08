@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+}
+
+main {
+    text-align: -webkit-center;
+    display: block;
+}
+
+.search {
+    text-align: center;
+    background-color: rgb(229, 229, 229);
+}
+
+table {
+    width: 90%;
+    border: 0;
+}
+
+#more-link {
+    max-height: 75;
+    margin: 0;
+    padding: 0;
+}
+
+.speacial-searches {
+    text-align: center;
+    background-color: #80e5db;
+    width: 35;
+}
+
+.links {
+    text-align: center;
+    background-color: #80e5db;
+}
+
+.subscribe {
+    text-align: center;
+    background-color: #80e5db;
+}
+td a {
+    margin-left: 5px;
+}
+footer {
+    text-align: center;
+    font-size: small;
+}
